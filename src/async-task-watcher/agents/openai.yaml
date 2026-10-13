@@ -1,0 +1,5 @@
+interface:
+  display_name: "Async Task Watcher"
+  short_description: "Choose efficient waits and recover durable background jobs"
+policy:
+  allow_implicit_invocation: true
